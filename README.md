@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DezJDev
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m searching a professional internship in Le Havre
-- 📫 How to reach me jeremydezetreepro@gmail.com
+- 👋 Je suis @DezJDev !
+- 👀 Je suis intéressé par le développement informatique, l'IA, le réseau & la data.
+- 🌱 Je suis actuellement en stage à Nordom en tant qu'intégrateur de donnée.
+- 💞️ Je suis à la recherche d'une alternance dans la région Normandie dans mes secteurs intéréssés.
+- 📫 Contactez moi par mail à l'adresse suivante: jeremydezetreepro@gmail.com
 
 <!---
 DezJDev/DezJDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

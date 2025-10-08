@@ -56,7 +56,7 @@
       <p>Une aap de culture générale développée en Flutter & Dart.</p>
     </td>
     <td>
-      <a href="https://github.com/DezJDev/Application-de-gestion-de-stock">
+      <a href="https://github.com/DezJDev/Le-Cinq-Parfait">
         <img src="https://cdn-icons-png.flaticon.com/512/3409/3409603.png" width="80" alt="Icone Gestion de Stock"><br>
         <b>Le 5 parfait</b>
       </a>

@@ -83,7 +83,7 @@
 <p align="center">
   N'hésitez pas à me contacter si vous souhaitez discuter d'un projet, d'une opportunité ou simplement échanger !
   <br><br>
-  <a href="[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7381750367329427456/)" target="_blank">
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7381750367329427456/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:jeremydezetreepro@gmail.com]">

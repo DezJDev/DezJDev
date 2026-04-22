@@ -1,92 +1,70 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9hCsO6hlK6N1/giphy.gif" width="100" />
+  
+  # 👋 Bonjour, je suis Jérémy Dezetree
+  ### 🚀 Aspirant Data Engineer | Architecte Logiciel | Passionné par la Data
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jérémy-dezetree/)
+  
 </div>
 
-<h1 align="center">
-  Salut, je suis Jérémy 👋
-</h1>
+---
 
-<h3 align="center">
-  Étudiant en deuxième année de Master en Informatique (IWOCS : Ingénierie du Web, Objets Communicants et Systèmes Complexes)
-</h3>
+## 🧠 À propos de moi
 
-<br>
+De formation solide en développement logiciel et architecture (Full-Stack, IoT, algorithmique complexe), je consolide actuellement mon profil pour pivoter vers l'ingénierie des données. Je suis à la recherche d'une opportunité en tant que **Data Engineer** pour concevoir des pipelines robustes, scalables et optimisés.
 
-<p align="center">
-  Actuellement en alternance en Informatique à Nordom, j'allie Date Engineer et Developper Full Stack !
-</p>
+Mon background de développeur me permet de comprendre les enjeux de bout en bout : de la modélisation complexe de bases de données relationnelles jusqu'au déploiement d'architectures distribuées sur le Cloud.
+
+🎯 **Mon objectif actuel :** Maîtriser le traitement de données à grande échelle (Big Data) et les environnements Cloud.
+
+* 💬 **Je maîtrise :** Apache Airflow, Python, SQL (PostgreSQL, MySQL, Oracle), Docker (et Swarm).
+* 🌱 **Je suis en train d'apprendre :** PySpark, et les écosystèmes Cloud (AWS, GCP, Azure).
+* 📫 **Me contacter :** [Sur mon LinkedIn](https://www.linkedin.com/in/jérémy-dezetree/)
 
 ---
 
-### 🛠️ Mes Outils et Technologies
+## 🛠️ Stack Technique & Outils
 
-<p align="center">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  </a>
-   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  </a>
-</p>
+### ⚙️ Data Engineering & Backend
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 
----
+### 🗄️ Bases de Données & Stockage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### 🚀 Mes Projets Épinglés
+### ☁️ Infrastructure & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-<table align="center" border="0" cellpadding="10" cellspacing="0">
-  <tr align="center">
-    <td>
-      <a href="https://github.com/DezJDev/CultivateMe">
-        <img src="https://cdn-icons-png.flaticon.com/512/3242/3242257.png" width="80" alt="Icone Portfolio"><br>
-        <b>Cultivate Me</b>
-      </a>
-      <br>
-      <p>Une aap de culture générale développée en Flutter & Dart.</p>
-    </td>
-    <td>
-      <a href="https://github.com/DezJDev/Le-Cinq-Parfait">
-        <img src="https://cdn-icons-png.flaticon.com/512/3409/3409603.png" width="80" alt="Icone Gestion de Stock"><br>
-        <b>Le 5 parfait</b>
-      </a>
-      <br>
-      <p>Arduino, Websocket et IHM : Appuyez pile au moment des 5.00</p>
-    </td>
-  </tr>
-</table>
+### 🚀 En cours d'apprentissage
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 ---
 
-### 📊 Mes Statistiques GitHub
+## 🔭 Projets Phares
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DezJDev&show_icons=true&theme=dracula&rank_icon=github&count_private=true" alt="Statistiques GitHub de DezJDev" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DezJDev&layout=compact&theme=dracula" alt="Top Langages" />
-</p>
+Bien que mon profil s'oriente vers la Data, mes projets démontrent ma capacité à concevoir des architectures complexes, distribuées et performantes.
+
+| Projet | Description | Technologies clés |
+| :--- | :--- | :--- |
+| 🏗️ **[DistribuHash](https://github.com/DezJDev/DistribuHash)** | **Architecture Distribuée & Auto-Scaling.** Démonstration de force brute MD5 répartie sur un cluster Docker Swarm avec création/suppression dynamique de "Workers" via un orchestrateur. | `Python`, `Docker Swarm`, `Redis`, `FastAPI` |
+| 📊 **[SiteTaxeFrançaisesHabitations](https://github.com/DezJDev/SiteTaxeFrançaisesHabitations)** | **Business Intelligence & Open Data.** Plateforme de data-visualisation exploitant des millions de lignes de données fiscales gouvernementales pour analyser les tendances. | `Laravel`, `API Platform`, `Next.js` |
+| 🗄️ **[TCGCardGame](https://github.com/DezJDev/TCGCardGame)** | **Modélisation de Données Avancée.** Conception et intégration d'une base de données complexe (Norme BCNF) déployée sur 3 SGBD différents (MySQL, PostgreSQL, Oracle). | `PostgreSQL`, `Oracle`, `MySQL`, `Python` |
+| ☁️ **[AWSLolDle](https://github.com/DezJDev/AWSLolDle)** | **Déploiement Cloud.** Jeu basé sur les données de League of Legends déployé sur une infrastructure AWS complète (EC2, S3, RDS PostgreSQL). | `AWS`, `PostgreSQL`, `Node.js`, `Docker` |
+| 🧠 **[IA - Machine Learning](https://github.com/DezJDev/IA)** | **Algorithmique Data.** Implémentation "from scratch" de modèles d'apprentissage : Régression Linéaire/Polynomiale, Naive Bayes (NLP) et K-Means (Compression d'image). | `Python`, `Mathématiques`, `ML` |
+
+*Retrouvez également d'autres projets sur mon profil explorant le développement Full-Stack ([PlateformeImmobilliere](https://github.com/DezJDev/PlateformeImmobilliere), [AppStripe](https://github.com/DezJDev/AppStripe)), le temps réel ([ArdoiseMagiquePartagee](https://github.com/DezJDev/ArdoiseMagiquePartagee)) et l'IoT ([IoT-Quiz](https://github.com/DezJDev/IoT-Quiz), [LeCinqParfait](https://github.com/DezJDev/LeCinqParfait)).*
 
 ---
 
-### 📫 Contactez-moi
-
-<p align="center">
-  N'hésitez pas à me contacter si vous souhaitez discuter d'un projet, d'une opportunité ou simplement échanger !
-  <br><br>
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7381750367329427456/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:jeremydezetreepro@gmail.com]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DezJDev&show_icons=true&theme=radical&hide_border=true" alt="Jérémy's GitHub Stats" />
+</div>

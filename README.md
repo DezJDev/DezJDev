@@ -64,7 +64,3 @@ Bien que mon profil s'oriente vers la Data, mes projets démontrent ma capacité
 *Retrouvez également d'autres projets sur mon profil explorant le développement Full-Stack ([PlateformeImmobilliere](https://github.com/DezJDev/PlateformeImmobilliere), [AppStripe](https://github.com/DezJDev/App_stripe)), le temps réel ([ArdoiseMagiquePartagee](https://github.com/DezJDev/ArdoiseMagiquePartagee)) et l'IoT ([IoT-Quiz](https://github.com/DezJDev/IoT-Quiz), [LeCinqParfait](https://github.com/DezJDev/LeCinqParfait)).*
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DezJDev&show_icons=true&theme=radical&hide_border=true" alt="Jérémy's GitHub Stats" />
-</div>

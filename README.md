@@ -56,12 +56,12 @@ Bien que mon profil s'oriente vers la Data, mes projets démontrent ma capacité
 | Projet | Description | Technologies clés |
 | :--- | :--- | :--- |
 | 🏗️ **[DistribuHash](https://github.com/DezJDev/DistribuHash)** | **Architecture Distribuée & Auto-Scaling.** Démonstration de force brute MD5 répartie sur un cluster Docker Swarm avec création/suppression dynamique de "Workers" via un orchestrateur. | `Python`, `Docker Swarm`, `Redis`, `FastAPI` |
-| 📊 **[SiteTaxeFrançaisesHabitations](https://github.com/DezJDev/SiteTaxeFrançaisesHabitations)** | **Business Intelligence & Open Data.** Plateforme de data-visualisation exploitant des millions de lignes de données fiscales gouvernementales pour analyser les tendances. | `Laravel`, `API Platform`, `Next.js` |
+| 📊 **[SiteTaxeFrançaisesHabitations](https://github.com/DezJDev/SiteTaxeFrancaisesHabitation)** | **Business Intelligence & Open Data.** Plateforme de data-visualisation exploitant des millions de lignes de données fiscales gouvernementales pour analyser les tendances. | `Laravel`, `API Platform`, `Next.js` |
 | 🗄️ **[TCGCardGame](https://github.com/DezJDev/TCGCardGame)** | **Modélisation de Données Avancée.** Conception et intégration d'une base de données complexe (Norme BCNF) déployée sur 3 SGBD différents (MySQL, PostgreSQL, Oracle). | `PostgreSQL`, `Oracle`, `MySQL`, `Python` |
-| ☁️ **[AWSLolDle](https://github.com/DezJDev/AWSLolDle)** | **Déploiement Cloud.** Jeu basé sur les données de League of Legends déployé sur une infrastructure AWS complète (EC2, S3, RDS PostgreSQL). | `AWS`, `PostgreSQL`, `Node.js`, `Docker` |
+| ☁️ **[AWSLolDle](https://github.com/DezJDev/git-iwocs-acjj)** | **Déploiement Cloud.** Jeu basé sur les données de League of Legends déployé sur une infrastructure AWS complète (EC2, S3, RDS PostgreSQL). | `AWS`, `PostgreSQL`, `Node.js`, `Docker` |
 | 🧠 **[IA - Machine Learning](https://github.com/DezJDev/IA)** | **Algorithmique Data.** Implémentation "from scratch" de modèles d'apprentissage : Régression Linéaire/Polynomiale, Naive Bayes (NLP) et K-Means (Compression d'image). | `Python`, `Mathématiques`, `ML` |
 
-*Retrouvez également d'autres projets sur mon profil explorant le développement Full-Stack ([PlateformeImmobilliere](https://github.com/DezJDev/PlateformeImmobilliere), [AppStripe](https://github.com/DezJDev/AppStripe)), le temps réel ([ArdoiseMagiquePartagee](https://github.com/DezJDev/ArdoiseMagiquePartagee)) et l'IoT ([IoT-Quiz](https://github.com/DezJDev/IoT-Quiz), [LeCinqParfait](https://github.com/DezJDev/LeCinqParfait)).*
+*Retrouvez également d'autres projets sur mon profil explorant le développement Full-Stack ([PlateformeImmobilliere](https://github.com/DezJDev/PlateformeImmobilliere), [AppStripe](https://github.com/DezJDev/App_stripe)), le temps réel ([ArdoiseMagiquePartagee](https://github.com/DezJDev/ArdoiseMagiquePartagee)) et l'IoT ([IoT-Quiz](https://github.com/DezJDev/IoT-Quiz), [LeCinqParfait](https://github.com/DezJDev/LeCinqParfait)).*
 
 ---
 

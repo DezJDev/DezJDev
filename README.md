@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 👋 Bonjour, je suis Jérémy Dezetree
+  # 👋 Bonjour, je suis Jérémy DEZETREE
   ### 🚀 Aspirant Data Engineer | Architecte Logiciel | Passionné par la Data
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jérémy-dezetree/)

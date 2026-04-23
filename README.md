@@ -27,6 +27,9 @@ Mon background de développeur me permet de comprendre les enjeux de bout en bou
 
 ### ⚙️ Data Engineering & Backend
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white)
+![Talend](https://img.shields.io/badge/Talend-FF0000?style=for-the-badge&logo=talend&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-2166AC?style=for-the-badge&logo=microsoft-power-automate&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)

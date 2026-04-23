@@ -64,6 +64,6 @@ Bien que mon profil s'oriente vers la Data, mes projets démontrent ma capacité
 | ☁️ **[AWSLolDle](https://github.com/DezJDev/git-iwocs-acjj)** | **Déploiement Cloud.** Jeu basé sur les données de League of Legends déployé sur une infrastructure AWS complète (EC2, S3, RDS PostgreSQL). | `AWS`, `PostgreSQL`, `Node.js`, `Docker` |
 | 🧠 **[IA - Machine Learning](https://github.com/DezJDev/IA)** | **Algorithmique Data.** Implémentation "from scratch" de modèles d'apprentissage : Régression Linéaire/Polynomiale, Naive Bayes (NLP) et K-Means (Compression d'image). | `Python`, `Mathématiques`, `ML` |
 
-*Retrouvez également d'autres projets sur mon profil explorant le développement Full-Stack ([PlateformeImmobilliere](https://github.com/DezJDev/PlateformeImmobilliere), [AppStripe](https://github.com/DezJDev/App_stripe)), le temps réel ([ArdoiseMagiquePartagee](https://github.com/DezJDev/ArdoiseMagiquePartagee)) et l'IoT ([IoT-Quiz](https://github.com/DezJDev/IoT-Quiz), [LeCinqParfait](https://github.com/DezJDev/LeCinqParfait)).*
+*Retrouvez également d'autres projets sur mon profil explorant le développement Full-Stack ([PlateformeImmobilliere](https://github.com/DezJDev/PlateformeImmobilliere), [AppStripe](https://github.com/DezJDev/App_stripe)), le temps réel ([ArdoiseMagiquePartagee](https://github.com/DezJDev/ArdoiseMagiquePartagee)) et l'IoT ([IoT-Quiz](https://github.com/DezJDev/IoT-Quiz), [LeCinqParfait](https://github.com/DezJDev/Le-Cinq-Parfait)).*
 
 ---
